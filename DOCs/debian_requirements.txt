@@ -1,0 +1,2 @@
+python3-tk
+x11-xserver-utils
