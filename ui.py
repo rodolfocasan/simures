@@ -17,7 +17,7 @@ from colors_controller import ColorsController
 '''
 >>> Metadata de versión
 '''
-VERSION = "1.1.0"
+VERSION = "1.1.1"
 
 
 

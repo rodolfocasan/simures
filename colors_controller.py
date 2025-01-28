@@ -1,6 +1,10 @@
 # colors_controller.py
 import subprocess
 
+
+
+
+
 class ColorsController:
     @staticmethod
     def apply_negative(tipo):
